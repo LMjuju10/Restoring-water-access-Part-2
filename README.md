@@ -83,6 +83,9 @@ From the cleaned and analyzed data, we extracted the following key insights:
 4. 18% rely on wells, but only 28% of those wells provide clean water.  
 5. Citizens spend over 120 minutes on average in water queues.  
 6. Queue trends:  
+
+![Hourly Queue trends](hourly_queue_times_weekday.jpg)
+
    - Longest on Saturdays  
    - Peak in mornings and evenings  
    - Shortest on Wednesdays and Sundays  
